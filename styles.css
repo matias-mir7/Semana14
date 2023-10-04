@@ -1,0 +1,11 @@
+p {
+    display: inline-block;
+    background-color: #f0eeee8a; /* Cambia este valor al color que desees */
+    padding: 5px; /* Opcional: Agrega relleno si deseas un espacio entre el texto y el fondo */
+    border-radius: 10px;
+}
+
+
+.carousel-inner .carousel-item p {
+    background-color: transparent;
+}
